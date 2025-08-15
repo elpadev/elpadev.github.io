@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Elias Paknejad. I am 32 years old.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently, I have been working as a Cloud Engineer at SAP in Germany since March 2021.
 
+I studied physics at Heidelberg University and RWTH Aachen University and graduated with an MSc at the end of 2020.
 
-[jekyll-organization]: https://github.com/jekyll
+Contact:
+- LinkedIn: [elias-paknejad](https://www.linkedin.com/in/elias-paknejad/)
+- GitHub: [elpadev](https://github.com/elpadev)
