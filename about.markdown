@@ -15,3 +15,5 @@ I studied physics at Heidelberg University and RWTH Aachen University and gradua
 Contact:
 - LinkedIn: [elias-paknejad](https://www.linkedin.com/in/elias-paknejad/)
 - GitHub: [elpadev](https://github.com/elpadev)
+
+![Image](/images/photo-of-me.png)
