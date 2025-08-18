@@ -16,4 +16,4 @@ Contact:
 - LinkedIn: [elias-paknejad](https://www.linkedin.com/in/elias-paknejad/)
 - GitHub: [elpadev](https://github.com/elpadev)
 
-![Image](/images/photo-of-me.png)
+![Image](/images/photo-of-me.jpg)
