@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "3-way Strategic Merge Patches in Helm: Release and Manual Changes"
-date: 2025-11-02 14:35:00 +0000
-categories: helm kubernetes
+description:
+summary:
+tags: [helm kubernetes]
 ---
 
 Let's say you have deployed the nginx Helm chart in Kubernetes, with the number of replicas set to 2:
