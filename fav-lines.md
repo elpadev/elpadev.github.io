@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Favorite maxims
+title: Favorite lines
 ---
 
 - Master the basics
